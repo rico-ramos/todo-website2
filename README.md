@@ -4,6 +4,6 @@
 - about.html
 - contact.html
 - css (dir)
--- style.css
+  - style.css
 - js (dir)
--- output.js
+  - output.js
